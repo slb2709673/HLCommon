@@ -1,0 +1,6 @@
+framework module Pods_HLCommon_Example {
+  umbrella header "Pods-HLCommon_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

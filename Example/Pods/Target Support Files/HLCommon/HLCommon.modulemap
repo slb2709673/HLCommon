@@ -1,0 +1,6 @@
+framework module HLCommon {
+  umbrella header "HLCommon-umbrella.h"
+
+  export *
+  module * { export * }
+}

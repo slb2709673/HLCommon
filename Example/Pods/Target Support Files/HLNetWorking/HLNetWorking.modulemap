@@ -1,0 +1,6 @@
+framework module HLNetWorking {
+  umbrella header "HLNetWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}
